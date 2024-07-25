@@ -2,6 +2,9 @@
   border: 1px solid gray;
   border-radius: 12px;
   justify-content: space-between;
+  display: flex;
+  margin-bottom: 5px;
+  padding: 5px;
 }
 
 .veg-border {
@@ -64,6 +67,7 @@
   color: #ffffff;
   font-weight: 600;
   font-size: 18px;
+  margin-top: 3px;
 }
 .quantity {
   margin: 0 10px;
@@ -84,6 +88,7 @@
   font-family: 'Roboto';
   font-size: 18px;
   align-self: center;
+  color: goldenrod;
 }
 .dish-image {
   width: 150px;

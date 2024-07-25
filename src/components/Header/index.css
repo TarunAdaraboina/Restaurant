@@ -35,3 +35,17 @@
   min-width: 25px;
   border-radius: 50%;
 }
+
+.cart-count-badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-header {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
